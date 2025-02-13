@@ -1,6 +1,3 @@
+convert_saplogon-*.tgz
 node_modules
-sample
-links
-yarn.lock
-saplogon.ini
-*.tgz
+sample/
